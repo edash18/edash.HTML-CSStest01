@@ -1,0 +1,48 @@
+@media all and (max-width: 1000px) {
+  .dog-pic {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+
+  footer {
+    text-align: center;
+  }
+
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+
+  .heading h2 {
+    font-size: 20px;
+  }
+}
+
+@media all and (max-width: 670px) {
+  .dog-pic {
+    width: 100%;
+  }
+
+  .btn {
+    width: 100%;
+  }
+
+  .facebook {
+    margin-bottom: 10px;
+  }
+
+  .top-wrapper {
+    text-align: left;
+  }
+
+  .header-right{
+  display: none;
+}
+
+.top-wrapper h1 {
+  font-size: 24px;
+}
+
+.top-wrapper p {
+  font-size: 14px;
+}
+}
